@@ -42,7 +42,7 @@ published: true
 2. [机器学习概述](chap-机器学习概述.pdf)  [[ppt](./ppt/chap-机器学习概述.pptx)] (updated 2019-4-4)
 3. [线性模型](chap-线性模型.pdf) [[ppt](./ppt/chap-线性模型.pptx)]  (updated 2019-4-4)
 4. [前馈神经网络](chap-前馈神经网络.pdf) [[ppt](./ppt/chap-前馈神经网络.pptx)] (updated 2019-4-4)
-5. [卷积神经网络](chap-卷积神经网络.pdf) [[ppt](./ppt/chap-卷积神经网络.pptx)]  (updated 2019-4-4)
+5. [卷积神经网络](chap-卷积神经网络.pdf) [[ppt](./ppt/chap-卷积神经网络.pptx)] [[局部连接，共享权值](./v/2d-convolution-process.pdf)]  (updated 2019-4-15)
 6. [循环神经网络](chap-循环神经网络.pdf) [[ppt](./ppt/chap-循环神经网络.pptx)]   (updated 2019-4-4)
 7. [网络优化与正则化](chap-网络优化与正则化.pdf)  [[ppt](./ppt/chap-网络优化与正则化.pptx)]  (updated 2019-4-4)
 8. [注意力机制与外部记忆](chap-注意力机制与外部记忆.pdf) [[ppt](./ppt/chap-注意力机制与外部记忆.pptx)]  (updated 2019-4-4)
